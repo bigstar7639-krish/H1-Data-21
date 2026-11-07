@@ -19,3 +19,6 @@ A: True Conservative Radio - Politics
 Auto Quiz - God 🧠
 Q: The Harvard architecture for micro-controllers added which additional bus?
 A: Instruction - Science: Computers
+Auto Quiz - Nature 🧠
+Q: In "Halo", what is the name of the planet which Installation 04 orbits?
+A: Threshold - Entertainment: Video Games
