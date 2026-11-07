@@ -97,3 +97,6 @@ A: Saruman - Entertainment: Film
 Auto Quiz - Diet 🧠
 Q: Who is the main character in the video game "Just Cause 3"?
 A: Rico Rodriguez - Entertainment: Video Games
+Auto Quiz - Sleep 🧠
+Q: What was the name of Captain Nemo's submarine in "20,000 Leagues Under the Sea"?
+A: The Nautilus - Entertainment: Books
