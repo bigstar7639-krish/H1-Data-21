@@ -58,3 +58,6 @@ A: Harrison Ford - Entertainment: Film
 Auto Quiz - River 🧠
 Q: Dutch computer scientist Mark Overmars is known for creating which game development engine?
 A: Game Maker - Science: Computers
+Auto Quiz - Sky 🧠
+Q: What is radiation measured in?
+A: Gray  - Science & Nature
