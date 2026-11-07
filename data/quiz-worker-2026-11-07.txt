@@ -16,3 +16,6 @@ A: Shawn Crahan (Clown) - Entertainment: Music
 Auto Quiz - Love 🧠
 Q: Before 2011, "True Capitalist Radio" was known by a different name. What was that name?
 A: True Conservative Radio - Politics
+Auto Quiz - God 🧠
+Q: The Harvard architecture for micro-controllers added which additional bus?
+A: Instruction - Science: Computers
