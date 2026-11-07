@@ -22,3 +22,6 @@ A: Instruction - Science: Computers
 Auto Quiz - Nature 🧠
 Q: In "Halo", what is the name of the planet which Installation 04 orbits?
 A: Threshold - Entertainment: Video Games
+Auto Quiz - Cat 🧠
+Q: Which one of these rulers did not belong to the Habsburg dynasty?
+A: Philip V - History
