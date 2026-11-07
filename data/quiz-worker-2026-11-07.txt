@@ -100,3 +100,6 @@ A: Rico Rodriguez - Entertainment: Video Games
 Auto Quiz - Sleep 🧠
 Q: What was the name of Captain Nemo's submarine in "20,000 Leagues Under the Sea"?
 A: The Nautilus - Entertainment: Books
+Auto Quiz - Beauty 🧠
+Q: Which of these Pokémon cannot learn Surf?
+A: Arbok - Entertainment: Video Games
