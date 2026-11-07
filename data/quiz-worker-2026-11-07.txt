@@ -64,3 +64,6 @@ A: Gray  - Science & Nature
 Auto Quiz - Star 🧠
 Q: Who was the main developer of the Suez Canal?
 A: Ferdinand de Lesseps - History
+Auto Quiz - Moon 🧠
+Q: In vanilla Minecraft, which of the following cannot be made into a block?
+A: Charcoal - Entertainment: Video Games
