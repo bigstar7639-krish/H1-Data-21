@@ -50,3 +50,4 @@ City - Wikimedia - https://commons.wikimedia.org/wiki/File:Old_buildings_near_Vi
 City - Unsplash - https://source.unsplash.com/800x600/?city%20lights
 City - Wikimedia - https://commons.wikimedia.org/wiki/File:Kansas_City,_MO_skyline_at_night.jpg
 City - Wikimedia - https://commons.wikimedia.org/wiki/File:Chennai_Egmore_railway_station_in_Chennai_city_12.jpg
+City - Wikimedia - https://commons.wikimedia.org/wiki/File:Kingsway_traffic_lights_in_Newport_city_centre_-_geograph.org.uk_-_5615243.jpg
