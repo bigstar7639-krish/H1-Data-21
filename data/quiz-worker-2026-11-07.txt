@@ -61,3 +61,6 @@ A: Game Maker - Science: Computers
 Auto Quiz - Sky 🧠
 Q: What is radiation measured in?
 A: Gray  - Science & Nature
+Auto Quiz - Star 🧠
+Q: Who was the main developer of the Suez Canal?
+A: Ferdinand de Lesseps - History
