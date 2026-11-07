@@ -103,3 +103,6 @@ A: The Nautilus - Entertainment: Books
 Auto Quiz - Beauty 🧠
 Q: Which of these Pokémon cannot learn Surf?
 A: Arbok - Entertainment: Video Games
+Auto Quiz - Fashion 🧠
+Q: What year did the movie "Napoleon Dynamite" come out?
+A: 2004 - Entertainment: Film
