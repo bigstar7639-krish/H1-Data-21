@@ -198,3 +198,7 @@ Kavithai - vaanampadigalin_kavithai_iyakkam_varalarum_padippinaigalum - vaanampa
 Book - isbn_9781534672925 - The Truth Healer : Book 1: The Rosie Parker Mystery
 Book - bwb_T3-BRL-524 - A Study of the Book of Acts
 Kavithai - Ilattu_Tamill_Kavithai_Kalannciyam - Ilattu Tamill Kavithai Kalannciyam
+Thirukkural - TNLA-DB-7-1984-8-63-1-QH5_1984-03-23 - Thirukkural Research Laboratory at Valluvar Kottam
+Thirukkural - thirukkural-solladaivoo-ccrd - Thirukkural Solladaivoo CCRD
+Pazhamozhi - 14PazhamozhiThirumanam1917 - 14 Pazhamozhi Thirumanam 1917
+Pazhamozhi - shg.707643-pazhamozhi-naanooru-unarthum-panpaadu-mathippugal - Pazhamozhi Naanooru Unarthum Panpaadu Mathippugal
